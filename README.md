@@ -9,11 +9,17 @@ Based on paper:
     American Control Conference (ACC), 2018, Milwaukee, WI, (submitted)
 
 Files:
-    - ana_invariance.py: classes and functions
-    - Example 1: Coupled Double Integrators
-    - Example 2: Platooning
-    - Problem 1: Optimal Policy Design
-    - Problem 2: Optimal Graph Design
-    - .m files: plotting
-    - .txt files: where the trajectories and outputs are saved
 
+    - ana_invariance.py: classes and functions
+    
+    - Example 1: Coupled Double Integrators
+    
+    - Example 2: Platooning
+    
+    - Problem 1: Optimal Policy Design
+    
+    - Problem 2: Optimal Graph Design
+    
+    - .m files: plotting
+    
+    - .txt files: where the trajectories and outputs are saved
